@@ -1,19 +1,33 @@
-# disk images
+# wireshark
+**Filters**: tcp contains "picoCTF{"
+HELPPPPPPP 
 
+# images
 ## tools
+* exiftool
+* hex
+* strings
+* steghide info
+* xxd ___ | less
+* zsteg
 
-### srch_strings
+## links
+[Big big cheatsheet](https://heisenberk.github.io/cheatsheet/)
+[Extract from png or image](https://www.aperisolve.com/)
+[Steganography](https://stylesuxx.github.io/steganography/)
+
+## srch_strings
 | srch_strings dds1-alpine.flag.img | grep -i "picoCTF"
 Short for Search Strings
 
-### fls or icat to explore or extract data
+## fls or icat to explore or extract data
 | fls -r -p -o 2048 dds2-alpine.flag.img | grep down-at-the-bottom.txt
 | icat -o 2048 dds2-alpine.flag.img 18291 > down-at-the-bottom.txt
 
 **How to use fls**
 fls [-adDFlhpruvV] [-f fstype] [-i imgtype] [-b dev_sector_size] [-m dir/] [-o imgoffset] [-z ZONE] [-s seconds] image [images] [inode] If [inode] is not given, the root directory is used
 
-## usage: Sleuthkit Apprentice
+## usage: Sleuthkit Apprentice (disk image)
 1. analyze the mmls, look at the START: 002 & 003 & 004
     002048
     206848
@@ -79,6 +93,6 @@ Units are in 512-byte sectors
 3.	Primary Table (#0):
 	* Contains metadata about the disk layout. It doesn’t hold user data but describes the structure.
 
-### qemu
+## qemu
 to boot a disk image
 | qemu-system-x86_64 -drive file= <file>,format=raw -m 512M
