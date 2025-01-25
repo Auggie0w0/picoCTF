@@ -17,6 +17,21 @@ When facing a file with any suffix, CHECK the file type first
 
 # Essential notes
 
+## tools
+* exiftool
+* hex
+* strings
+* steghide info
+* xxd ___ | less
+* zsteg
+
+## links
+[Big big cheatsheet](https://heisenberk.github.io/cheatsheet/)
+[Extract from png or image](https://www.aperisolve.com/)
+[Steganography](https://stylesuxx.github.io/steganography/)
+[CTF cheatsheet](https://twin-security.com/ctf-cheatsheet/)
+
+
 ## Cipher
 **to watch out**
  - MULTIPLE layers of cipher!!! try to check through all the layers! 
