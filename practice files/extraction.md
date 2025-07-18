@@ -11,11 +11,6 @@ HELPPPPPPP
 * xxd ___ | less
 * zsteg
 
-## links
-[Big big cheatsheet](https://heisenberk.github.io/cheatsheet/)
-[Extract from png or image](https://www.aperisolve.com/)
-[Steganography](https://stylesuxx.github.io/steganography/)
-
 ## srch_strings
 | srch_strings dds1-alpine.flag.img | grep -i "picoCTF"
 Short for Search Strings
