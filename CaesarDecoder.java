@@ -35,8 +35,12 @@ public class CaesarDecoder {
     }
     
     public static void main(String[] args) {
-        // The encoded message
-        String ciphertext = "gvswwmrkxlivyfmgsrhnrisegl";
+        // Import Scanner for user input
+        java.util.Scanner scanner = new java.util.Scanner(System.in);
+        
+        // Prompt user for input
+        System.out.print("Enter the encoded message: ");
+        String ciphertext = scanner.nextLine();
         
         System.out.println("Trying all 26 possible Caesar cipher shifts:");
         System.out.println("-".repeat(50));
@@ -46,5 +50,8 @@ public class CaesarDecoder {
             String decoded = caesarDecode(ciphertext, shift);
             System.out.printf("Shift %2d: %s%n", shift, decoded);
         }
+        
+        // Close the scanner
+        scanner.close();
     }
 }
