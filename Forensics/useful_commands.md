@@ -17,7 +17,14 @@ _	- zbarimg or zbarcam…etc _
 	—> reading, writing, and converting data at a low level
 **strings** - overview of the readable strings
 
+# Hex stuff
 hex viewer: **xxd**, bless, hexedit
+
+keywords: signatures 
+
+https://en.wikipedia.org/wiki/Intel_HEX
+
+JPG signatures: https://www.file-recovery.com/jpg-signature-format.htm
 
 
 ## steganography tools
@@ -25,3 +32,4 @@ file carving: **sleuthkit**	> [commands](https://wiki.sleuthkit.org/index.php?ti
 
 # Partitions
 How to extract and isolate partition:
+
