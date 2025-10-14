@@ -1,0 +1,5 @@
+Wireshark SSL debug log 
+
+GnuTLS version:    3.8.10
+Libgcrypt version: 1.11.2
+
