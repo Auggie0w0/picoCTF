@@ -1,0 +1,100 @@
+ExifTool Version Number         : 13.36
+File Name                       : Zard.jpg
+Directory                       : .
+File Size                       : 27 MB
+File Modification Date/Time     : 2026:01:09 17:39:10-08:00
+File Access Date/Time           : 2026:01:09 17:45:06-08:00
+File Inode Change Date/Time     : 2026:01:09 17:45:04-08:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Orientation                     : Horizontal (normal)
+Current IPTC Digest             : c75d17e574b56ef5dbbe3994c0e9795c
+Coded Character Set             : UTF8
+Application Record Version      : 0
+IPTC Digest                     : c75d17e574b56ef5dbbe3994c0e9795c
+X Resolution                    : 300
+Displayed Units X               : inches
+Y Resolution                    : 300
+Displayed Units Y               : inches
+Print Style                     : Centered
+Print Position                  : 0 0
+Print Scale                     : 1
+Global Angle                    : 30
+Global Altitude                 : 30
+URL List                        : 
+Slices Group Name               : Charizard Playtests
+Num Slices                      : 1
+Pixel Aspect Ratio              : 1
+Photoshop Thumbnail             : (Binary data 4912 bytes, use -b option to extract)
+Has Real Merged Data            : Yes
+Writer Name                     : Adobe Photoshop
+Reader Name                     : Adobe Photoshop CS5
+Photoshop Quality               : 12
+Photoshop Format                : Standard
+XMP Toolkit                     : Adobe XMP Core 5.0-c060 61.134777, 2010/02/12-17:32:00
+Company                         : LaserSoft Imaging
+Scanner ID                      : 600
+Scanner Vendor ID               : 8
+Gamma Makernotes                : 2.2
+Scan Res                        : 1600
+HDR Scan                        : No
+Modify Date                     : 2026:01:02 03:55:14-08:00
+Creator Tool                    : SilverFast 9.2.5 d7fb55bf3e (Nov 22 2024)
+Create Date                     : 2026:01:02 03:51:30-08:00
+Metadata Date                   : 2026:01:02 03:55:14-08:00
+Format                          : image/jpeg
+Color Mode                      : RGB
+ICC Profile Name                : Adobe RGB (1998)
+Instance ID                     : xmp.iid:FB8C07E6D1E7F01196DDB73ED710CDAB
+Document ID                     : xmp.did:FA8C07E6D1E7F01196DDB73ED710CDAB
+Original Document ID            : xmp.did:FA8C07E6D1E7F01196DDB73ED710CDAB
+History Action                  : saved, converted, derived, saved
+History Instance ID             : xmp.iid:FA8C07E6D1E7F01196DDB73ED710CDAB, xmp.iid:FB8C07E6D1E7F01196DDB73ED710CDAB
+History When                    : 2026:01:02 03:55:14-08:00, 2026:01:02 03:55:14-08:00
+History Software Agent          : Adobe Photoshop CS5 Windows, Adobe Photoshop CS5 Windows
+History Changed                 : /, /
+History Parameters              : from image/tiff to image/jpeg, converted from image/tiff to image/jpeg
+Derived From Instance ID        : xmp.iid:FA8C07E6D1E7F01196DDB73ED710CDAB
+Derived From Document ID        : xmp.did:FA8C07E6D1E7F01196DDB73ED710CDAB
+Derived From Original Document ID: xmp.did:FA8C07E6D1E7F01196DDB73ED710CDAB
+Profile CMM Type                : Adobe Systems Inc.
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2000:08:11 19:51:59
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : none
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Adobe Systems Inc.
+Profile ID                      : 0
+Profile Copyright               : Copyright 2000 Adobe Systems Incorporated
+Profile Description             : Adobe RGB (1998)
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Tone Reproduction Curve     : (Binary data 14 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 14 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 14 bytes, use -b option to extract)
+Red Matrix Column               : 0.60974 0.31111 0.01947
+Green Matrix Column             : 0.20528 0.62567 0.06087
+Blue Matrix Column              : 0.14919 0.06322 0.74457
+DCT Encode Version              : 100
+APP14 Flags 0                   : [14]
+APP14 Flags 1                   : (none)
+Color Transform                 : YCbCr
+Image Width                     : 4906
+Image Height                    : 8525
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 4906x8525
+Megapixels                      : 41.8
